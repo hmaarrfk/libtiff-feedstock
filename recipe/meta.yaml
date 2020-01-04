@@ -51,11 +51,6 @@ requirements:
     - jpeg
     - xz
     - zstd
-  run:
-    - zlib
-    - jpeg
-    - xz
-    - zstd
 
 test:
   requires:
